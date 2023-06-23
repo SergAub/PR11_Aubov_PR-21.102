@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PR11_Aubov_PR-21.102</string>
+    <string name="redcarwin">Red car wins!</string>
+    <string name="greycarwins">Grey car wins!</string>
+    <string name="startgame">Старт</string>
+    <string name="stopgame">Пауза</string>
+</resources>
